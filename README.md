@@ -10,8 +10,8 @@ adapted and translated from https://github.com/kokskoksowy/Kahoot-bot go check h
 ## Usage linux (rquires python)
 ```
 [ ! -d "Kahoot-bot" ] && git clone https://github.com/shellduck8/kahootbot.git
-pip install -r Kahoot-bot/requirements.txt
-python Kahoot-bot/main.py
+pip install -r kahootbot/requirements.txt
+python kahootbot/main.py
 ```
 
 ## Usage [google colab](https://colab.research.google.com/)
